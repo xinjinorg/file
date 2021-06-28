@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到中国新进学社官网（本网站尚在建设中）
 
 You can use the [editor on GitHub](https://github.com/xinjinorg/xjo/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
